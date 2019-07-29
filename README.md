@@ -6,7 +6,7 @@ Feel free to fork and modify it to your liking.
 
 **This is no longer in development.**
 
-#External tools:
+# External tools:
 
 Uses [WhatWeb](https://github.com/urbanadventurer/WhatWeb "WhatWeb") for scanning targets.
 
